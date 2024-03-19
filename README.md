@@ -36,6 +36,17 @@ You can find the same information in the [contributing guide.](https://github.co
 
 ## Donations
 I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`.
+2048:
+
+creating Dockerfile
+creating Dockerimage and run the container
+expose port number:80
+go to new tab and localhost:80  
+
+
+
+
+
 
 https://github.com/vijayalakshmi1205/docker-game2048/assets/144942239/00906754-5fde-4dc0-8662-176fa83d5173
 
