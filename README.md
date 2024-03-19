@@ -47,5 +47,7 @@ https://github.com/vijayalakshmi1205/docker-game2048/assets/144942239/138a4a42-8
 
 Elastic Beanstalk:
 
+![Screenshot 2024-03-19 171209](https://github.com/vijayalakshmi1205/docker-game2048/assets/144942239/0404da9b-c28d-4887-8fc2-59528c08e130)
+
 https://github.com/vijayalakshmi1205/docker-game2048/assets/144942239/00906754-5fde-4dc0-8662-176fa83d5173
 
