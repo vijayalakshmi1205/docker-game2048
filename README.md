@@ -41,9 +41,9 @@ I made this in my spare time, and it's hosted on GitHub (which means I don't hav
 creating Dockerfile
 creating Dockerimage and run the container
 expose port number:80
-go to new tab and localhost:80  
+go to new tab and localhost:80 
 
-https://github.com/vijayalakshmi1205/docker-game2048/assets/144942239/138a4a42-8a1c-44d1-bbde-aad94fcafe8e
+
 
 Elastic Beanstalk:
 
