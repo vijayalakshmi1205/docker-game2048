@@ -43,6 +43,8 @@ creating Dockerimage and run the container
 expose port number:80
 go to new tab and localhost:80 
 
+https://github.com/vijayalakshmi1205/docker-game2048/assets/144942239/d37d3531-32b4-4a5e-897e-4a2837396c2f
+
 
 
 Elastic Beanstalk:
